@@ -1,6 +1,6 @@
 # How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews
 
-**Project Report**: [PDF]([https://drive.google.com/file/d/FILE_ID/view](https://drive.google.com/file/d/14UFEtWqjg4H4pGb0GPb0V2qaCj7xcW3-/view?usp=sharing))
+**Project Report**: [PDF]([https://drive.google.com/file/d/14UFEtWqjg4H4pGb0GPb0V2qaCj7xcW3-/view?usp=drive_link])
 
 ### Overview
 This project examines the impact of synthetic data and submodular data selection on sentiment classification performance using a FastText model.
